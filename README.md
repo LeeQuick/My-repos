@@ -1,5 +1,5 @@
 # My-repos (Kan Daniil)
 123 MicroBoy
-BLAH BLH
-KAN DANIIL(I25C)
-SAD LESSON
+BLAH BLAH
+(I25C)
+CAPSTONE
